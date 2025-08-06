@@ -18,7 +18,8 @@ An AI-powered chatbot designed to guide engineering and management students in e
 Install the required Python packages:
 pip install -q google-generativeai gradio pillow
 
-# API Key Setup
+##
+ API Key Setup
 Get your Gemini API key from Google AI Studio.
 In Google Colab, securely store your key:
 python
